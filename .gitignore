@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary files and logs
+*.tmp
+*.log
+
+# Local secrets
+.env
