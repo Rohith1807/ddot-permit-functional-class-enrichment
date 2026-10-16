@@ -1,5 +1,4 @@
 # Public Space Occupancy Permit — FHWA Functional Class Enrichment
-**DDOT | Analytics, Assets, and Performance Branch**  
 
 ## 1. Project Overview
 
